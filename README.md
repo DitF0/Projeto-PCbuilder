@@ -1,7 +1,7 @@
 # PC Builder ESEG
 
-**Programação Web — 1º Semestre/2026**
-**Escola Superior de Engenharia e Gestão — Engenharia da Computação**
+**Programação Web — 6º Semestre/2026**
+**Engenharia da Computação**
 **Prof. Israel Florentino**
 
 ---
